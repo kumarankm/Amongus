@@ -14,4 +14,9 @@ This is the game created by using Vanilla JavaScript. The features in this game 
  
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/60292723/116198530-ace8e380-a753-11eb-98af-bbee1732dd8f.gif)
 
+<h2> Minimum Requirement</h2>
+<h4> 1) Full screen desktop</h4>
+<h4> 2) Flexible browser like chrome, firefox, etc</h4>
+
+
 
