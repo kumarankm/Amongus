@@ -30,7 +30,8 @@ Now go to **Amongus** directory where you have downloaded and open index.html fi
 <h4> 3) Not supported on mobile screen</h4>
 <h4> 4) Internet Connection</h4>
 
-![fbc8e8425d5f3fce57dfab17fb4d6237_w200](https://user-images.githubusercontent.com/60292723/116201072-bcb5f700-a756-11eb-8e7a-692c49a5d082.gif)
+![nurture8-animation](https://user-images.githubusercontent.com/60292723/116201240-ea9b3b80-a756-11eb-9c36-dae8a2a34e8a.gif)
+
 
 
 
