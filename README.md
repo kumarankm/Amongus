@@ -106,4 +106,4 @@ git push -u origin <your_branch_name>
 
 ![tenor](https://user-images.githubusercontent.com/60292723/116201818-8cbb2380-a757-11eb-85df-78cbb536e8a5.gif)
 
-
+ <h6>Thanks for visiting this repository!</h6>
