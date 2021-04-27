@@ -15,9 +15,10 @@
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/60292723/116198530-ace8e380-a753-11eb-98af-bbee1732dd8f.gif)
 
 <h2> Minimum Requirement</h2>
-<h4> 1) Full screen desktop</h4>
+<h4> 1) Full screen desktop environment</h4>
 <h4> 2) Flexible browser(chrome, firefox, etc)</h4>
 <h4> 3) Not supported on mobile screen</h4>
+<h4> 4) Internet Connection</h4>
 
 
 
