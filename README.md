@@ -3,6 +3,8 @@ This is the game created by using Vanilla JavaScript. The features in this game 
 
 ![banner](https://user-images.githubusercontent.com/60292723/116196302-f4ba3b80-a750-11eb-89ba-ca8ba605bc44.png)
 
+<h2> Project Link: https://kumarankm.github.io/Amongus/</h2>
+
 
 <h1>Game Move Mode</h1> 
 
