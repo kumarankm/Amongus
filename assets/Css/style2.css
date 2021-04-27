@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+	background-color: black;
+}
+
+#mainlo{
+	position: absolute;
+	height: 150px;
+	width: 270px;
+	top: 150px;
+	left: 620px;
+	
+}
+
+#mainlo1{
+	position: absolute;
+	height: 150px;
+	width: 270px;
+	top: 300px;
+	left: 620px;
+}
+
+
+#bumain{
+	background-color: white;
+	height: 70px;
+	width: 150px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 50px;
+	border-radius: 50px;
+	position: absolute;
+	top: 450px;
+	left: 680px;
+}
+
+#bumain:hover{
+	background-color: #d6d6d6;
+}
