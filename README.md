@@ -16,7 +16,9 @@ This is the game created by using Vanilla JavaScript. The features in this game 
 
 <h2> Minimum Requirement</h2>
 <h4> 1) Full screen desktop</h4>
-<h4> 2) Flexible browser like chrome, firefox, etc</h4>
+<h4> 2) Flexible browser(chrome, firefox, etc)</h4>
+<h4> 3) Not supported on mobile screen</h4>
+
 
 
 
