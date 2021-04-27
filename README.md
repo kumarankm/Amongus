@@ -1,5 +1,5 @@
 # Amongus
-This is the game created by using Vanilla JavaScript. The features in this game are amongus character, amongus character movement, character leg movement, character kill feature, character kill count and Sabotage effect...
+<h4>This is the game created by using Vanilla JavaScript. The features in this game are amongus character, amongus character movement, character leg movement, character kill feature, character kill count and Sabotage effect...</h4>
 
 ![banner](https://user-images.githubusercontent.com/60292723/116196302-f4ba3b80-a750-11eb-89ba-ca8ba605bc44.png)
 
