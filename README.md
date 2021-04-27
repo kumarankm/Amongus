@@ -6,7 +6,7 @@ This is the game created by using Vanilla JavaScript. The features in this game 
 <h2> Project Link: https://kumarankm.github.io/Amongus/</h2>
 
 
-##Game Move Mode
+## Game Move Mode
 
  ![amongus](https://user-images.githubusercontent.com/60292723/116197081-e3256380-a751-11eb-94e2-ae0b2c014612.gif)
  
@@ -14,14 +14,14 @@ This is the game created by using Vanilla JavaScript. The features in this game 
  
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/60292723/116198530-ace8e380-a753-11eb-98af-bbee1732dd8f.gif)
 
-##Procedure to download
+## Procedure to download
 First download all the files to your local computer using(Make sure you have installed git on your desktop).
 ```
 git clone https://github.com/kumarankm/Amongus.git
 ```
 Now go to **Amongus** directory where you have downloaded and open index.html file
 
-##Minimum Requirement
+<h2>Minimum Requirement</h2>
 <h4> 1) Full screen desktop environment</h4>
 <h4> 2) Flexible browser(chrome, firefox, etc)</h4>
 <h4> 3) Not supported on mobile screen</h4>
