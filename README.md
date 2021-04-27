@@ -10,7 +10,7 @@ This is the game created by using Vanilla JavaScript. The features in this game 
 
  ![amongus](https://user-images.githubusercontent.com/60292723/116197081-e3256380-a751-11eb-94e2-ae0b2c014612.gif)
  
-##Mini Game Mode
+## Mini Game Mode
  
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/60292723/116198530-ace8e380-a753-11eb-98af-bbee1732dd8f.gif)
 
