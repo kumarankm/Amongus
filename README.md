@@ -19,7 +19,7 @@
 ```
 git clone https://github.com/kumarankm/Amongus.git
 ```
-<h4> Now go to <b>Amongus</b> directory where you have downloaded and open index.html file</h4>
+<h4> Now go to **Amongus** directory where you have downloaded and open index.html file</h4>
 
 <h2> Minimum Requirement</h2>
 <h4> 1) Full screen desktop environment</h4>
