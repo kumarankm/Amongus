@@ -51,7 +51,7 @@ cd <your_project_repo>
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/<main_user>/<their_project_name>.git
+git remote add upstream https://github.com/kumarankm/Amongus.git
 ```
 
 **5.** Check the remotes for this repository.
@@ -104,5 +104,6 @@ git push -u origin <your_branch_name>
 **15.** Click on `Create Pull Request`.
 
 
+![tenor](https://user-images.githubusercontent.com/60292723/116201818-8cbb2380-a757-11eb-85df-78cbb536e8a5.gif)
 
 
