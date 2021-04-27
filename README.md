@@ -14,6 +14,13 @@
  
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/60292723/116198530-ace8e380-a753-11eb-98af-bbee1732dd8f.gif)
 
+<h2> Procedure to download game</h2>
+<h4> First download all the files to your local computer using(Make sure you have installed git on your desktop).
+```
+git clone https://github.com/kumarankm/Amongus.git
+```
+<h4> Now go to <b>Amongus</b> directory where you have downloaded and open index.html file</h4>
+
 <h2> Minimum Requirement</h2>
 <h4> 1) Full screen desktop environment</h4>
 <h4> 2) Flexible browser(chrome, firefox, etc)</h4>
