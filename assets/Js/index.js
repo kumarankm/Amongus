@@ -143,7 +143,7 @@ function addImg() {
     imge.src = 'assets/Image/dead.png';
     imge.setAttribute("width", "170");
     imge.setAttribute("height", "170");
-    imge.setAttribute("style","position:relative; left:350px; top:245px; z-index:-1;");
+    imge.setAttribute("style","position:relative; left:350px; top:145px; z-index:-1;");
 	document.getElementById('deadimg').appendChild(imge);
 
 
